@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9cbb8a-f458-4f06-a644-f5076131bff0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saransh/SampleExcelInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saransh/TextIOExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Inputfiles/TextIO.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeamJava/src/main/java/com/saransh/playground/TextIOWithCustomLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeamJava/src/main/java/com/saransh/playground/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BeamJava/src/main/java/com/saransh/playground/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
